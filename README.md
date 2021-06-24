@@ -1,4 +1,4 @@
-# BACK-END (PYTHON)
+# BACK-END (PYTHON - DJANGO)
 ## Hello. Thanks for being a part of this wonderful team.
 
 ### TABLE OF CONTENT
